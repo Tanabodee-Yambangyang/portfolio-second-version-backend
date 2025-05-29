@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "TogetherWherever",
+        "duration": "Jan 2024 - Mar 2025",
+        "description": "An AI-powered travel planning web application that optimizes group trip experiences by analyzing the preferences of multiple group members to recommend suitable destinations and collaboratively build personalized travel itineraries. The system uses a hybrid approach that combines the Apriori algorithm, content-based filtering, and critiquing-based feedback to maximize group satisfaction and fairness.",
+        "technologies": [
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Python",
+            "Apriori Algorithm"
+        ],
+        "github": "https://github.com/TogetherWherever",
+        "responsibilities": [
+            "Contributed to all software development stages, including UI/UX design, documentation, sprint planning, code reviews, and meetings.",
+            "Built frontend with Next.js, TypeScript, and Tailwind CSS for trip planning, group voting, and itinerary visualization.",
+            "Integrated FastAPI backend APIs with frontend.",
+            "Designed and implemented a recommendation engine using Apriori algorithm, content-based filtering, and critiquing-based feedback for group voting.",
+            "Developed the recommendation logic and trip generation model.",
+            "Deployed the app on Vercel, ensuring responsiveness and accessibility.",
+            "Participated in user testing, metrics analysis (Jaccard similarity, precision, recall, fairness), and iterative improvements based on feedback."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Referite",
+        "duration": "Oct 2023 - Nov 2023",
+        "description": "A medal schedule and result management web application for the 2024 Olympic Games simulation. The application simulates the operational workflow of Olympic result reporting, including medal tracking, schedule updates, and result editing for various sports and events. The project emphasized full-cycle development and collaboration in a team setting.",
+        "technologies": [
+            "React.js",
+            "TypeScript",
+            "CSS"
+        ],
+        "github": "https://github.com/Referite",
+        "responsibilities": [
+            "Led the Frontend Development Team, managing planning and coordination of all interface work.",
+            "Owned frontend development of the Medal Outcomes Document System page using React.js, TypeScript, and CSS.",
+            "Designed and built the entire UI, including input mechanics for recording and editing medal outcomes by sport and event.",
+            "Created dynamic, responsive components ensuring smooth user interactions.",
+            "Integrated frontend with FastAPI backend for data flow and validation.",
+            "Collaborated with backend developers and UI designers to maintain app consistency.",
+            "Conducted frontend code reviews and optimized core workflows."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "WongNung",
+        "duration": "Oct 2022 - Nov 2022",
+        "description": "WongNung is a community-driven film review app where movie fans join Fandoms based on shared interests, share reviews, and get personalized recommendations within their groups.",
+        "technologies": [
+            "Python",
+            "Django",
+            "OAuth",
+            "unittest",
+            "Selenium"
+        ],
+        "github": "https://github.com/WongNung/WongNung",
+        "responsibilities": [
+            "Developed Django data models for users, reviews, films, and fandom groups.",
+            "Performed automated testing with unittest for backend logic and Selenium for end-to-end workflows.",
+            "Implemented OAuth authentication (Google, GitHub, Discord) for secure user login.",
+            "Collaborated on backend logic to ensure stable and testable core Fandom and review features."
+        ]
+    }
+]
