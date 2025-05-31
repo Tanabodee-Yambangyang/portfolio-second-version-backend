@@ -24,10 +24,6 @@ def load_json(file_path):
 def read_root():
     return {"message": "Portfolio API is running!"}
 
-@app.get("/projects", response_model=list[schemas.Project])
-def get_projects():
-    return load_json("data/projects.json")
-
-@app.get("/experiences", response_model=list[schemas.Experience])
+@app.get("/profile", response_model=list[schemas.Profile])
 def get_experiences():
-    return load_json("data/experiences.json")
+    return load_json("data.json")
