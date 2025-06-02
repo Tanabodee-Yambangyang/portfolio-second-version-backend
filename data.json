@@ -1,8 +1,10 @@
 [
     {
+        "image": "https://drive.google.com/file/d/1FfcrYXCYlvX00nCflS6zzTX0TB0Dsqnb/view?usp=sharing",
         "first_name": "Tanabodee",
         "last_name": "Yambangyang",
         "address": "98/7, Moo 1, Wimonnut Village, Ya Chan Uthit Alley, Khun Kaeo Sub-district, Nakhon Chai Si District, Nakhon Pathom Province, 73120",
+        "about_me": "I'm Tanabodee YAMBANGYANG, a software engineer focusing on frontend development and web applications. I have hands-on experience building user interfaces and have also worked on model implementation for recommendation systems as part of my academic projects.\n\nI'm now aiming to expand my skills in backend development and other areas of software engineering to become a more versatile, well-rounded developer capable of creating efficient, scalable, and impactful applications.",
         "contact": {
             "facebook": "https://www.facebook.com/profile.php?id=100007994625777",
             "linkedin": "https://www.linkedin.com/in/tanabodee-yambangyang-11a3882a2/",

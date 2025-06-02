@@ -45,12 +45,13 @@ class Skills(BaseModel):
     methodologies: List[str]
     soft_skills: List[str]
     languages: List[str]
-
-
+    
 class Profile(BaseModel):
+    image: str
     first_name: str
     last_name: str
     address: str
+    about_me: str
     contact: Contact
     introduction: str
     education: List[Education]
