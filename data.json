@@ -26,7 +26,7 @@
             {
                 "id": 1,
                 "slug": "togetherwherever",
-                "name": "TogetherWherever",
+                "name": "Senior Project – TogetherWherever",
                 "duration": "Jan 2024 - Mar 2025",
                 "description": "An AI-powered travel planning web application that optimizes group trip experiences by analyzing the preferences of multiple group members to recommend suitable destinations and collaboratively build personalized travel itineraries. The system uses a hybrid approach that combines the Apriori algorithm, content-based filtering, and critiquing-based feedback to maximize group satisfaction and fairness.",
                 "technologies": [
@@ -45,6 +45,19 @@
                     "Developed the recommendation logic and trip generation model.",
                     "Deployed the app on Vercel, ensuring responsiveness and accessibility.",
                     "Participated in user testing, metrics analysis (Jaccard similarity, precision, recall, fairness), and iterative improvements based on feedback."
+                ],
+                "images": [
+                    "/togetherwherever/togetherwherever0.png",
+                    "/togetherwherever/togetherwherever1.png",
+                    "/togetherwherever/togetherwherever2.png",
+                    "/togetherwherever/togetherwherever3.png",
+                    "/togetherwherever/togetherwherever4.png",
+                    "/togetherwherever/togetherwherever5.png",
+                    "/togetherwherever/togetherwherever6.png",
+                    "/togetherwherever/togetherwherever7.png",
+                    "/togetherwherever/togetherwherever8.png",
+                    "/togetherwherever/togetherwherever9.png",
+                    "/togetherwherever/togetherwherever10.png"
                 ]
             },
             {
@@ -67,6 +80,14 @@
                     "Integrated frontend with FastAPI backend for data flow and validation.",
                     "Collaborated with backend developers and UI designers to maintain app consistency.",
                     "Conducted frontend code reviews and optimized core workflows."
+                ],
+                "images": [
+                    "/referite/referite0.png",
+                    "/referite/referite1.png",
+                    "/referite/referite2.png",
+                    "/referite/referite3.png",
+                    "/referite/referite4.png",
+                    "/referite/referite5.png"
                 ]
             },
             {
@@ -88,6 +109,13 @@
                     "Performed automated testing with unittest for backend logic and Selenium for end-to-end workflows.",
                     "Implemented OAuth authentication (Google, GitHub, Discord) for secure user login.",
                     "Collaborated on backend logic to ensure stable and testable core Fandom and review features."
+                ],
+                "images": [
+                    "/wongnung/wongnung1.png",
+                    "/wongnung/wongnung2.png",
+                    "/wongnung/wongnung3.png",
+                    "/wongnung/wongnung4.png",
+                    "/wongnung/wongnung5.png"
                 ]
             }
         ],
@@ -112,7 +140,8 @@
                 "JavaScript",
                 "TypeScript",
                 "C++",
-                "Java"
+                "Java",
+                "SQL"
             ],
             "web_development": [
                 "HTML",

@@ -27,6 +27,7 @@ class Project(BaseModel):
     technologies: List[str]
     github: Optional[HttpUrl]
     responsibilities: List[str]
+    images: List[str]
 
 
 class Experience(BaseModel):
