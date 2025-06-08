@@ -48,6 +48,7 @@ class Skills(BaseModel):
     languages: List[str]
     
 class Profile(BaseModel):
+    cv: str
     image: str
     first_name: str
     last_name: str

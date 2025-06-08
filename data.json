@@ -1,17 +1,18 @@
 [
     {
         "image": "https://drive.google.com/file/d/1FfcrYXCYlvX00nCflS6zzTX0TB0Dsqnb/view?usp=sharing",
+        "cv": "https://drive.google.com/uc?export=download&id=1D58YHdzI4QT_1m4JDsQus_UrD5ZVs3vp",
         "first_name": "Tanabodee",
         "last_name": "Yambangyang",
         "address": "98/7, Moo 1, Wimonnut Village, Ya Chan Uthit Alley, Khun Kaeo Sub-district, Nakhon Chai Si District, Nakhon Pathom Province, 73120",
-        "about_me": "I'm Tanabodee YAMBANGYANG, a software engineer focusing on frontend development and web applications. I have hands-on experience building user interfaces and have also worked on model implementation for recommendation systems as part of my academic projects.\n\nI'm now aiming to expand my skills in backend development and other areas of software engineering to become a more versatile, well-rounded developer capable of creating efficient, scalable, and impactful applications.",
+        "about_me": "I'm Tanabodee YAMBANGYANG, a software engineer focusing on frontend development and web applications. I have hands-on experience building user interfaces and have also worked on model implementation for recommendation systems as part of my academic projects.\n\nI’m currently broadening my skills beyond frontend development, exploring backend technologies and essential software engineering principles. My goal is to become a more capable, well-rounded software engineer and continuously improve in my future career.",
         "contact": {
             "facebook": "https://www.facebook.com/profile.php?id=100007994625777",
             "linkedin": "https://www.linkedin.com/in/tanabodee-yambangyang-11a3882a2/",
             "github": "https://github.com/Tanabodee-Yambangyang",
             "email": "tanabodeeyambangyang@gmail.com"
         },
-        "introduction": "I’m passionate about building scalable, user-friendly applications and pursuing a Master's Degree in Software Engineering.",
+        "introduction": "I love building smart, scalable web applications that are both user-friendly and impactful. With a strong focus on front-end development, I'm continuously expanding my skills to grow into a well-rounded, high-quality software engineer.",
         "education": [
             {
                 "id": "1",
@@ -28,7 +29,7 @@
                 "slug": "togetherwherever",
                 "name": "Senior Project – TogetherWherever",
                 "duration": "Jan 2024 - Mar 2025",
-                "description": "An AI-powered travel planning web application that optimizes group trip experiences by analyzing the preferences of multiple group members to recommend suitable destinations and collaboratively build personalized travel itineraries. The system uses a hybrid approach that combines the Apriori algorithm, content-based filtering, and critiquing-based feedback to maximize group satisfaction and fairness.",
+                "description": "TogetherWherever is an AI-powered travel planning web application designed to enhance group travel experiences. Developed as my senior project, the system analyzes the preferences of all group members to recommend destinations and collaboratively build personalized itineraries. It features a hybrid recommendation engine that combines the Apriori algorithm, content-based filtering, and critiquing-based methods to generate destination suggestions aligned with the group’s collective interests.",
                 "technologies": [
                     "Next.js",
                     "TypeScript",
@@ -42,7 +43,6 @@
                     "Built frontend with Next.js, TypeScript, and Tailwind CSS for trip planning, group voting, and itinerary visualization.",
                     "Integrated FastAPI backend APIs with frontend.",
                     "Designed and implemented a recommendation engine using Apriori algorithm, content-based filtering, and critiquing-based feedback for group voting.",
-                    "Developed the recommendation logic and trip generation model.",
                     "Deployed the app on Vercel, ensuring responsiveness and accessibility.",
                     "Participated in user testing, metrics analysis (Jaccard similarity, precision, recall, fairness), and iterative improvements based on feedback."
                 ],
@@ -57,7 +57,8 @@
                     "/togetherwherever/togetherwherever7.png",
                     "/togetherwherever/togetherwherever8.png",
                     "/togetherwherever/togetherwherever9.png",
-                    "/togetherwherever/togetherwherever10.png"
+                    "/togetherwherever/togetherwherever10.png",
+                    "/togetherwherever/togetherwherever11.png"
                 ]
             },
             {
@@ -65,7 +66,7 @@
                 "slug": "referite",
                 "name": "Referite",
                 "duration": "Oct 2023 - Nov 2023",
-                "description": "A medal schedule and result management web application for the 2024 Olympic Games simulation. The application simulates the operational workflow of Olympic result reporting, including medal tracking, schedule updates, and result editing for various sports and events. The project emphasized full-cycle development and collaboration in a team setting.",
+                "description": "Referite is a web application developed as part of the Software Process and Project Management course at Kasetsart University. It simulates the operational workflow of the Paris 2024 Olympic Games, assisting the organizing committee in managing event schedules and documenting medal outcomes. The application includes features like medal tracking, result editing, real-time updates, referee login, and data validation.",
                 "technologies": [
                     "React.js",
                     "TypeScript",
@@ -73,7 +74,7 @@
                 ],
                 "github": "https://github.com/Referite",
                 "responsibilities": [
-                    "Led the Frontend Development Team, managing planning and coordination of all interface work.",
+                    "Led the Frontend Development Team, managing planning and coordination of all interface implementation work.",
                     "Owned frontend development of the Medal Outcomes Document System page using React.js, TypeScript, and CSS.",
                     "Designed and built the entire UI, including input mechanics for recording and editing medal outcomes by sport and event.",
                     "Created dynamic, responsive components ensuring smooth user interactions.",
